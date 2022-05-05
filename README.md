@@ -52,7 +52,7 @@
   
         }  
     }
-    ```
+  ```
  ## Output:
  ![4exp](https://user-images.githubusercontent.com/75234942/166975935-2ac9ab46-c751-4c7b-a846-e2c3f85ab321.png)
 
