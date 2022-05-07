@@ -20,7 +20,7 @@ stop
  ## Program:
  ```c#
  using System;
-namespace Ragav
+namespace Prashe
 {
     public class exp4
     {
